@@ -1,0 +1,44 @@
+h1 {
+    color:rgb(47, 23, 180);
+    text-align: center;
+}
+main {
+    text-align: center;
+}
+
+h3{
+    color:rgb(3, 83, 63)
+}
+
+footer {
+    text-align:center;
+    color:darkblue;
+}
+
+nav {
+    text-align: center;
+}
+ 
+h4 {
+    text-align: center;
+}
+figure {
+    margin: 2em;
+    background-color: rgb(208, 247, 176);
+    padding: 1.5em;
+    border: solid 1pt #999999;
+}
+tr td em{
+    text-align: center;
+}
+
+p {
+    margin-left:5px;
+
+}
+Table {
+    margin: auto;
+}
+body {
+    background:blueviolet;
+}
